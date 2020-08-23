@@ -1,3 +1,4 @@
-ro.build.model=ASUS_Z01MD
+ro.build.model=ASUS_Z01M
 ro.build.asus.sku=WW
-ro.build.product=Z01MD
+ro.build.product=Z01M
+ro.product.device=ASUS_Z01M
